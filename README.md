@@ -15,3 +15,6 @@ A simple and interactive To-Do List application built using HTML, CSS, and JavaS
 - HTML
 - CSS
 - JavaScript
+
+## Live Demo
+You can view the live version of the To-Do List application [here](https://to-do-list-shaleen.vercel.app/).
